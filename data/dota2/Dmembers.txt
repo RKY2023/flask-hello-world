@@ -1,0 +1,701 @@
+0: {imp: 9, matchCount: 1814, winCount: 959,…}
+imp: 9
+matchCount: 1814
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/367354c6ab708fb68ad883f947ada08cb1e0a252_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/367354c6ab708fb68ad883f947ada08cb1e0a252_full.jpg"
+id: 30535439
+isAnonymous: false
+lastMatchDateTime: 1656890460
+name: "Shocky"
+seasonLeaderboardRank: null
+seasonRank: 31
+__typename: "SteamAccountType"
+winCount: 959
+__typename: "GuildMemberType"
+1: {imp: -1, matchCount: 599, winCount: 292,…}
+imp: -1
+matchCount: 599
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/8dd7fda86a5bdb1ba726005fc1ffaeb78045189f_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/8dd7fda86a5bdb1ba726005fc1ffaeb78045189f_full.jpg"
+id: 66186369
+isAnonymous: false
+lastMatchDateTime: 1656879180
+name: "сука блять"
+seasonLeaderboardRank: null
+seasonRank: 14
+__typename: "SteamAccountType"
+winCount: 292
+__typename: "GuildMemberType"
+2: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/31466bfbfe84f6de72acab3334863ac0cceceef4_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/31466bfbfe84f6de72acab3334863ac0cceceef4_full.jpg"
+id: 86857109
+isAnonymous: true
+lastMatchDateTime: null
+name: "apoc_lypse"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+3: {imp: 9, matchCount: 462, winCount: 247,…}
+imp: 9
+matchCount: 462
+steamAccount: {avatar: "f5/f5c714c508daed3be2ab5d63f2cebb5798921a5e_full.jpg", id: 87138456, isAnonymous: false,…}
+avatar: "f5/f5c714c508daed3be2ab5d63f2cebb5798921a5e_full.jpg"excel
+id: 87138456
+isAnonymous: false
+lastMatchDateTime: 1625946960
+name: "Ðan†€™"
+seasonLeaderboardRank: null
+seasonRank: 52
+__typename: "SteamAccountType"
+winCount: 247
+__typename: "GuildMemberType"
+4: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/c527c5c99813d906666590c60993072e2caca786_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/c527c5c99813d906666590c60993072e2caca786_full.jpg"
+id: 89432171
+isAnonymous: true
+lastMatchDateTime: null
+name: "7ckngMad"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+5: {imp: 2, matchCount: 848, winCount: 428,…}
+imp: 2
+matchCount: 848
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg"
+id: 100354144
+isAnonymous: false
+lastMatchDateTime: 1656828960
+name: "1rv07cs083"
+seasonLeaderboardRank: null
+seasonRank: 12
+__typename: "SteamAccountType"
+winCount: 428
+__typename: "GuildMemberType"
+6: {imp: 3, matchCount: 1095, winCount: 562,…}
+imp: 3
+matchCount: 1095
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/26c52b8af4195235c8b791097fb34e64c8b631bb_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/26c52b8af4195235c8b791097fb34e64c8b631bb_full.jpg"
+id: 100391804
+isAnonymous: false
+lastMatchDateTime: 1656849000
+name: "flash_zzz"
+seasonLeaderboardRank: null
+seasonRank: 45
+__typename: "SteamAccountType"
+winCount: 562
+__typename: "GuildMemberType"
+7: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/178250e698307178e3d653c85374172804b98535_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/178250e698307178e3d653c85374172804b98535_full.jpg"
+id: 103394085
+isAnonymous: true
+lastMatchDateTime: null
+name: "{ MW } $oul"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+8: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "f3/f305cbcf5126628181f92d6c7f79ceb111e11851_full.jpg", id: 110222926, isAnonymous: true,…}
+avatar: "f3/f305cbcf5126628181f92d6c7f79ceb111e11851_full.jpg"
+id: 110222926
+isAnonymous: true
+lastMatchDateTime: null
+name: "Master of None!!"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+9: {imp: -2, matchCount: 84, winCount: 43,…}
+imp: -2
+matchCount: 84
+steamAccount: {avatar: "38/38d59e572eb2dbf4f5e52ce85272cf755007c277_full.jpg", id: 128325622, isAnonymous: false,…}
+avatar: "38/38d59e572eb2dbf4f5e52ce85272cf755007c277_full.jpg"
+id: 128325622
+isAnonymous: false
+lastMatchDateTime: 1646064120
+name: "KURAX"
+seasonLeaderboardRank: null
+seasonRank: 33
+__typename: "SteamAccountType"
+winCount: 43
+__typename: "GuildMemberType"
+10: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/9308725707e8c5b361f563b68c3d3dce77ca6f9f_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/9308725707e8c5b361f563b68c3d3dce77ca6f9f_full.jpg"
+id: 136788699
+isAnonymous: true
+lastMatchDateTime: null
+name: "Ÿūki Asuna ♥ 結城 明日奈 ♥"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+11: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/8d16eccd73435184340021d2b5610c768817a083_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/8d16eccd73435184340021d2b5610c768817a083_full.jpg"
+id: 147852530
+isAnonymous: true
+lastMatchDateTime: null
+name: "Natural Selection!"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+12: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/0f8259db7eb5c1c49588bf28fe8f46581b622003_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/0f8259db7eb5c1c49588bf28fe8f46581b622003_full.jpg"
+id: 151602244
+isAnonymous: true
+lastMatchDateTime: null
+name: "D@T{2:)"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+13: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg", id: 162408361, isAnonymous: true,…}
+avatar: "fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg"
+id: 162408361
+isAnonymous: true
+lastMatchDateTime: null
+name: "RyfG-ghoneprasad"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+14: {imp: 4, matchCount: 330, winCount: 156,…}
+imp: 4
+matchCount: 330
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/715e338579618ab6af6ee49c9f9a109409a002fc_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/715e338579618ab6af6ee49c9f9a109409a002fc_full.jpg"
+id: 170051884
+isAnonymous: false
+lastMatchDateTime: 1656698220
+name: "retired soon"
+seasonLeaderboardRank: null
+seasonRank: 45
+__typename: "SteamAccountType"
+winCount: 156
+__typename: "GuildMemberType"
+15: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/218f8aa316a414f7117a9af016752e687582c3e8_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/218f8aa316a414f7117a9af016752e687582c3e8_full.jpg"
+id: 187861917
+isAnonymous: true
+lastMatchDateTime: null
+name: "Ja¢k Spaяяöw"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+16: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/88a47e30daba102cca48b355092222dcbc8daacc_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/88a47e30daba102cca48b355092222dcbc8daacc_full.jpg"
+id: 190378551
+isAnonymous: true
+lastMatchDateTime: null
+name: "VAC_D_boooo"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+17: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/6abe513dd0ff6a258f44ae6bb9618bc19add99f4_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/6abe513dd0ff6a258f44ae6bb9618bc19add99f4_full.jpg"
+id: 190976729
+isAnonymous: true
+lastMatchDateTime: null
+name: "el_FeNoMeNo"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+18: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/950f9f3147d4c8530a5072825d01c34ee3f1afa1_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/950f9f3147d4c8530a5072825d01c34ee3f1afa1_full.jpg"
+id: 196625167
+isAnonymous: true
+lastMatchDateTime: null
+name: "SIDDHU SHOOTOUT WALA"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+19: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "74/74bab02415c5a552631bcd2e286b2502f003eded_full.jpg", id: 197222228, isAnonymous: true,…}
+avatar: "74/74bab02415c5a552631bcd2e286b2502f003eded_full.jpg"
+id: 197222228
+isAnonymous: true
+lastMatchDateTime: null
+name: "Rosu"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+20: {imp: -1, matchCount: 21, winCount: 7,…}
+imp: -1
+matchCount: 21
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_full.jpg"
+id: 246877312
+isAnonymous: false
+lastMatchDateTime: 1656105060
+name: "Mika~"
+seasonLeaderboardRank: null
+seasonRank: 41
+__typename: "SteamAccountType"
+winCount: 7
+__typename: "GuildMemberType"
+21: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/ac737e05d280a6ada9805e48a22cc2fb74fe15ce_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/ac737e05d280a6ada9805e48a22cc2fb74fe15ce_full.jpg"
+id: 252574588
+isAnonymous: true
+lastMatchDateTime: null
+name: "V@l@r Morghuli$"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+22: {imp: 2, matchCount: 1711, winCount: 859,…}
+imp: 2
+matchCount: 1711
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/16e798b35d81c9d259f72e31028292582273de2e_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/16e798b35d81c9d259f72e31028292582273de2e_full.jpg"
+id: 275218092
+isAnonymous: false
+lastMatchDateTime: 1656806880
+name: "Kaze"
+seasonLeaderboardRank: null
+seasonRank: 41
+__typename: "SteamAccountType"
+winCount: 859
+__typename: "GuildMemberType"
+23: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/fa50793fec5f4b9586ec93d7b9ece2d012addf92_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/fa50793fec5f4b9586ec93d7b9ece2d012addf92_full.jpg"
+id: 307198886
+isAnonymous: true
+lastMatchDateTime: null
+name: "Pain"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+24: {imp: -1, matchCount: 206, winCount: 101,…}
+imp: -1
+matchCount: 206
+steamAccount: {avatar: "5b/5b1f5d3cf99e23e61986a1543bacc76a831bc419_full.jpg", id: 308792461, isAnonymous: false,…}
+avatar: "5b/5b1f5d3cf99e23e61986a1543bacc76a831bc419_full.jpg"
+id: 308792461
+isAnonymous: false
+lastMatchDateTime: 1650766080
+name: "Hen Tie"
+seasonLeaderboardRank: null
+seasonRank: 25
+__typename: "SteamAccountType"
+winCount: 101
+__typename: "GuildMemberType"
+25: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/82f86ac5fcbf6406971fb54ff3a48a10bfba0e91_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/82f86ac5fcbf6406971fb54ff3a48a10bfba0e91_full.jpg"
+id: 315624345
+isAnonymous: true
+lastMatchDateTime: null
+name: "i_m_Froodo™"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+26: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/d305587a6ca504134ef5f4c5291abfa0360904cd_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/d305587a6ca504134ef5f4c5291abfa0360904cd_full.jpg"
+id: 319407815
+isAnonymous: true
+lastMatchDateTime: null
+name: "Collapse collapse in car collaps"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+27: {imp: -2, matchCount: 607, winCount: 299,…}
+imp: -2
+matchCount: 607
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/4da9457f05f616adc091cb0c626d86aaaec1165b_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/4da9457f05f616adc091cb0c626d86aaaec1165b_full.jpg"
+id: 320187568
+isAnonymous: false
+lastMatchDateTime: 1656349260
+name: "mahfish2"
+seasonLeaderboardRank: null
+seasonRank: 14
+__typename: "SteamAccountType"
+winCount: 299
+__typename: "GuildMemberType"
+28: {imp: 1, matchCount: 47, winCount: 21,…}
+imp: 1
+matchCount: 47
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg"
+id: 335543713
+isAnonymous: false
+lastMatchDateTime: 1655660340
+name: "What that dog doin"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: 21
+__typename: "GuildMemberType"
+29: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "7b/7b4f4a531000f230e850c1c61dca4ab5711302e6_full.jpg", id: 339388639, isAnonymous: true,…}
+avatar: "7b/7b4f4a531000f230e850c1c61dca4ab5711302e6_full.jpg"
+id: 339388639
+isAnonymous: true
+lastMatchDateTime: null
+name: "Moses"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+30: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "29/29492d471d2b9754b80ac3238f9aa4aa5e861161_full.jpg", id: 339441628, isAnonymous: true,…}
+avatar: "29/29492d471d2b9754b80ac3238f9aa4aa5e861161_full.jpg"
+id: 339441628
+isAnonymous: true
+lastMatchDateTime: null
+name: "carry or jungle"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+31: {imp: 1, matchCount: 1239, winCount: 627,…}
+imp: 1
+matchCount: 1239
+steamAccount: {avatar: "e5/e57eb8bc269d5e7f0d285286c43e59d279c6cdcb_full.jpg", id: 352304317, isAnonymous: false,…}
+avatar: "e5/e57eb8bc269d5e7f0d285286c43e59d279c6cdcb_full.jpg"
+id: 352304317
+isAnonymous: false
+lastMatchDateTime: 1653691080
+name: "WhiteWalker"
+seasonLeaderboardRank: null
+seasonRank: 31
+__typename: "SteamAccountType"
+winCount: 627
+__typename: "GuildMemberType"
+32: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/1e5b8e62e916a1c3ccf0f8f170c21227c8db65da_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/1e5b8e62e916a1c3ccf0f8f170c21227c8db65da_full.jpg"
+id: 360648572
+isAnonymous: true
+lastMatchDateTime: null
+name: "FROOSTIK"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+33: {imp: 1, matchCount: 104, winCount: 50,…}
+imp: 1
+matchCount: 104
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/c3a5814c2661977b60384038138e844520745baa_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/c3a5814c2661977b60384038138e844520745baa_full.jpg"
+id: 361668286
+isAnonymous: false
+lastMatchDateTime: 1655930520
+name: "for(i=0;i<n;i++){}"
+seasonLeaderboardRank: null
+seasonRank: 41
+__typename: "SteamAccountType"
+winCount: 50
+__typename: "GuildMemberType"
+34: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "01/013c09e7be126df2943f6547277690a9a85180bf_full.jpg", id: 366883389, isAnonymous: true,…}
+avatar: "01/013c09e7be126df2943f6547277690a9a85180bf_full.jpg"
+id: 366883389
+isAnonymous: true
+lastMatchDateTime: null
+name: "Swril n Thrill-"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+35: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg"
+id: 375826403
+isAnonymous: true
+lastMatchDateTime: null
+name: "__init__"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+36: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/cf5031e9d41d0b560376ca04210a8045273797a0_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/cf5031e9d41d0b560376ca04210a8045273797a0_full.jpg"
+id: 388183554
+isAnonymous: true
+lastMatchDateTime: null
+name: "TacticalDot"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+37: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/3624f8643a3c9153c6a83fa4edd324ed7517fa34_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/3624f8643a3c9153c6a83fa4edd324ed7517fa34_full.jpg"
+id: 420737542
+isAnonymous: true
+lastMatchDateTime: null
+name: "AverageDOTAenjoyer"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+38: {imp: 0, matchCount: 413, winCount: 227,…}
+imp: 0
+matchCount: 413
+steamAccount: {avatar: "a0/a08f0c23c141a5b23114fe85731d2359539e3eb9_full.jpg", id: 428809366, isAnonymous: false,…}
+avatar: "a0/a08f0c23c141a5b23114fe85731d2359539e3eb9_full.jpg"
+id: 428809366
+isAnonymous: false
+lastMatchDateTime: 1653926760
+name: "Sweet Dreams"
+seasonLeaderboardRank: null
+seasonRank: 15
+__typename: "SteamAccountType"
+winCount: 227
+__typename: "GuildMemberType"
+39: {imp: 0, matchCount: 608, winCount: 344,…}
+imp: 0
+matchCount: 608
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/350c45b8aead4ef9775aac2e1661aa44214b5289_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/350c45b8aead4ef9775aac2e1661aa44214b5289_full.jpg"
+id: 454559109
+isAnonymous: false
+lastMatchDateTime: 1656791040
+name: "Geniusfromhell"
+seasonLeaderboardRank: null
+seasonRank: 34
+__typename: "SteamAccountType"
+winCount: 344
+__typename: "GuildMemberType"
+40: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "3b/3b7e5d78475efeb825e25d8933de8cc6f060d2f7_full.jpg", id: 456206811, isAnonymous: true,…}
+avatar: "3b/3b7e5d78475efeb825e25d8933de8cc6f060d2f7_full.jpg"
+id: 456206811
+isAnonymous: true
+lastMatchDateTime: null
+name: "AB"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+41: {imp: -2, matchCount: 735, winCount: 365,…}
+imp: -2
+matchCount: 735
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/f046a76b6eca256a6a9c83a3d89289e64c07bf7a_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/f046a76b6eca256a6a9c83a3d89289e64c07bf7a_full.jpg"
+id: 456467353
+isAnonymous: false
+lastMatchDateTime: 1655894820
+name: "LynX"
+seasonLeaderboardRank: null
+seasonRank: 14
+__typename: "SteamAccountType"
+winCount: 365
+__typename: "GuildMemberType"
+42: {imp: -3, matchCount: 613, winCount: 315,…}
+imp: -3
+matchCount: 613
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/897da344474baab31bbb5fa7a27a6836888f36d1_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/897da344474baab31bbb5fa7a27a6836888f36d1_full.jpg"
+id: 461475033
+isAnonymous: false
+lastMatchDateTime: 1654966380
+name: "Major Tom"
+seasonLeaderboardRank: null
+seasonRank: 25
+__typename: "SteamAccountType"
+winCount: 315
+__typename: "GuildMemberType"
+43: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg", id: 911628423, isAnonymous: true,…}
+avatar: "fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg"
+id: 911628423
+isAnonymous: true
+lastMatchDateTime: null
+name: "udaivsingh"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+44: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg"
+id: 974513288
+isAnonymous: true
+lastMatchDateTime: null
+name: "cryptex"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+45: {imp: 7, matchCount: 142, winCount: 82,…}
+imp: 7
+matchCount: 142
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/034ac7ba330cbba3e04868e973851175b221ede3_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/034ac7ba330cbba3e04868e973851175b221ede3_full.jpg"
+id: 1097376609
+isAnonymous: false
+lastMatchDateTime: 1656167340
+name: "Eden-"
+seasonLeaderboardRank: null
+seasonRank: 45
+__typename: "SteamAccountType"
+winCount: 82
+__typename: "GuildMemberType"
+46: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg", id: 1133235679, isAnonymous: true,…}
+avatar: "fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg"
+id: 1133235679
+isAnonymous: true
+lastMatchDateTime: null
+name: "Your Dad"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+47: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/d0c5bccf13c33b64c861b17494db9bbc93ae4e3a_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/d0c5bccf13c33b64c861b17494db9bbc93ae4e3a_full.jpg"
+id: 1182351154
+isAnonymous: true
+lastMatchDateTime: null
+name: "FlyingChicken 🐣"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+48: {imp: null, matchCount: null, winCount: null,…}
+imp: null
+matchCount: null
+steamAccount: {avatar: "c5/c50a170fbe262803ca23a26e22caa2fba63c0056_full.jpg", id: 1254972365, isAnonymous: true,…}
+avatar: "c5/c50a170fbe262803ca23a26e22caa2fba63c0056_full.jpg"
+id: 1254972365
+isAnonymous: true
+lastMatchDateTime: null
+name: "New PlaYer"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: null
+__typename: "GuildMemberType"
+49: {imp: 6, matchCount: 110, winCount: 67,…}
+imp: 6
+matchCount: 110
+steamAccount: {avatar: "https://avatars.akamai.steamstatic.com/373bbb154697b33e7989fcee0040bcc21d00bc33_full.jpg",…}
+avatar: "https://avatars.akamai.steamstatic.com/373bbb154697b33e7989fcee0040bcc21d00bc33_full.jpg"
+id: 1349307516
+isAnonymous: false
+lastMatchDateTime: 1656884340
+name: "Pru9"
+seasonLeaderboardRank: null
+seasonRank: null
+__typename: "SteamAccountType"
+winCount: 67
+__typename: "GuildMemberType"
+__typename: "GuildType"
